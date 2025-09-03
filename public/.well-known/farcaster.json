@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "TipJar Remix",
+    "subtitle": "Built with Zara",
+    "description": "TipJar Remix is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://a131dd4158c649b9b1813fded3e07943-fdmm-e0fu1d30c-vistara.vercel.app",
+    "splashImageUrl": "https://a131dd4158c649b9b1813fded3e07943-fdmm-e0fu1d30c-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://a131dd4158c649b9b1813fded3e07943-fdmm-e0fu1d30c-vistara.vercel.app/image.png",
+    "tagline": "TipJar Remix",
+    "screenshotUrls": [
+      "https://a131dd4158c649b9b1813fded3e07943-fdmm-e0fu1d30c-vistara.vercel.app/screenshot.png",
+      "https://a131dd4158c649b9b1813fded3e07943-fdmm-e0fu1d30c-vistara.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://a131dd4158c649b9b1813fded3e07943-fdmm-e0fu1d30c-vistara.vercel.app/api/webhook"
+  }
+}
