@@ -33,7 +33,9 @@ export default function Home() {
                 <Identity
                   address={address}
                   className="bg-white/10 rounded-lg p-2"
-                />
+                >
+                  {address}
+                </Identity>
               )}
               <ConnectWallet />
             </div>
